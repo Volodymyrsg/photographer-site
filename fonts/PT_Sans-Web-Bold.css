@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "PT Sans";
+    src: url("PT_Sans-Web-Bold.eot"); /* IE9 */
+    src: url("PT_Sans-Web-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("PT_Sans-Web-Bold.woff") format("woff"), /* chrome, firefox */
+    url("PT_Sans-Web-Bold.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("PT_Sans-Web-Bold.svg#PT Sans") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
